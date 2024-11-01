@@ -1,4 +1,8 @@
+# ignore single file
 new-file.txt
+
+# ignore .tmp files
+ContosoUniversity/*.tmp
 
 
 ContosoUniversity/obj/Debug/
